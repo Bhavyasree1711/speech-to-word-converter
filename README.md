@@ -17,22 +17,6 @@ A simple web-based speech-to-text converter built using HTML, CSS, and JavaScrip
 *   JavaScript
 *   Web Speech API (or any other speech recognition library you used)
 
-## Installation
-
-1.  Clone the repository:
-
-    ```bash
-    git clone [invalid URL removed]
-    ```
-
-2.  Navigate to the project directory:
-
-    ```bash
-    cd your-repo-name
-    ```
-
-3.  Open the `index.html` file in your web browser.
-
 ## How to Use
 
 1.  Open the `index.html` file in a web browser.
